@@ -15,12 +15,12 @@ Here are some of the technologies and tools I work with:
 
 - Programming Languages: [JavaScript]
 - Frameworks/Libraries: [Mocha, WebdriverIO]
-- Tools: [Git,postman api,Jira, VS Code]
+- Tools: [Git, postman api, Jira, VS Code]
 - Databases: [MySQL]
 
 ## Projects
 
-### [Project Name]
+### Urban Routes Taxi App
 Description: [Brief description of the project]
 - Technologies used: [Technologies used in the project]
 - [Link to the project repository or live demo]
@@ -32,11 +32,10 @@ Description: [Brief description of the project]
 
 ## Contact Me
 
-Feel free to reach out to me via [Email] or connect with me on [LinkedIn].
+Feel free to reach out to me via Email or connect with me on LinkedIn.
 
-- [Email]
-- [LinkedIn]
-- [Twitter]
+- Email: Stealthynicks@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nicholasmaiaticoqa/
 
 ## GitHub Stats
 
