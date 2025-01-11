@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 ## Projects
 
 ### Urban Routes Taxi App
-Description: Urban Routes is a ride share taxi serice app allowing clients to get from point A to B. 
+Description: Urban Routes is a ride share taxi service app allowing clients to get from point A to B. Clients can simply put in a start address and a end address, which they then they will be appointed a driver.
 - Technologies used: Mocha, JavaScript, WebDriverIO, Jira, GitHub
 - https://github.com/NMaiatico/hm08-qa-us.git
 
