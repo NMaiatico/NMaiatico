@@ -21,14 +21,9 @@ Here are some of the technologies and tools I work with:
 ## Projects
 
 ### Urban Routes Taxi App
-Description: [Brief description of the project]
-- Technologies used: [Technologies used in the project]
-- [Link to the project repository or live demo]
-
-### [Project Name]
-Description: [Brief description of the project]
-- Technologies used: [Technologies used in the project]
-- [Link to the project repository or live demo]
+Description: Urban Routes is a ride share taxi serice app allowing clients to get from point A to B. 
+- Technologies used: Mocha, JavaScript, WebDriverIO, Jira, GitHub
+- https://github.com/NMaiatico/hm08-qa-us.git
 
 ## Contact Me
 
