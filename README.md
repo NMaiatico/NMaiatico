@@ -20,10 +20,23 @@ Here are some of the technologies and tools I work with:
 
 ## Projects
 
-### Urban Routes Taxi App
-Description: Urban Routes is a ride share taxi service app allowing clients to get from point A to B. Clients can simply put in a start address and a end address, which they then they will be appointed a driver.
-- Technologies used: Mocha, JavaScript, WebDriverIO, Jira, GitHub
-- https://github.com/NMaiatico/hm08-qa-us.git
+## Urban Grocer Web App 
+Skills: API Testing, Debugging, JSON, Postman, Node.js, JavaScript, GitHub 
+- Tested the API of Urban Grocers app and created a valid API bug report 
+- Designed tests for APIs using test design techniques "boundary values" and "equivalence classes" Sent JSON and XML requests to API using Postman 
+- Composed a SOAP request according to the API documentation 
+- Developed and executed tests for HTTP requests using Node.js and JavaScript
+
+## Urban Routes Web App 
+Skills: Test Planning and Design, Debugging, Figma, Charles 
+- Tested the frontend of the web app and issued bug reports 
+- Designed positive and negative tests and found defects in common interface elements Checked layout adaptability without real devices 
+- Intercepted and spoofed requests or responses in Charles manually and automatically
+
+## Urban Lunch Mobile App 
+Skills: Android Studio, Mobile Emulator, Mobile Testing 
+- Developed & implemented a comprehensive mobile testing strategy utilizing Android Studio and device emulators 
+- Identified and resolved critical defects by collecting and analyzing logs from mobile emulators
 
 ## Contact Me
 
